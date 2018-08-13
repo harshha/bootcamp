@@ -1,0 +1,25 @@
+{
+  "name": "bootcamp",
+  "version": "1.0.0",
+  "description": "first mean stack app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshha/bootcamp.git"
+  },
+  "author": "harsha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshha/bootcamp/issues"
+  },
+  "homepage": "https://github.com/harshha/bootcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.7"
+  }
+}
